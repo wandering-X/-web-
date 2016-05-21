@@ -1,4 +1,0 @@
-# learnGit
-learn
-
-heheda
